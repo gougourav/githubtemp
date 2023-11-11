@@ -1,0 +1,12 @@
+<!docfile.html>
+<html>
+<head>
+<style>p{color:red;text-align:center;}
+p1.center{color:green;text-align:center;}
+</style>
+</head>
+<body>
+<p>Hello World</p>
+<p1 class="center">Hi Sun</p1>
+</body>
+</html>
